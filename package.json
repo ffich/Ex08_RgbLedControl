@@ -1,0 +1,12 @@
+{
+    "name": "Ex08_RgbLedControl",
+    "description": "Control of a RGB LED strip. It uses a Jupiter Model A and a RGB click.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
